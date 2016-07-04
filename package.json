@@ -1,0 +1,19 @@
+{
+  "name": "lightapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "lul no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rob738/lightApp.git"
+  },
+  "author": "rob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rob738/lightApp/issues"
+  },
+  "homepage": "https://github.com/Rob738/lightApp#readme"
+}
